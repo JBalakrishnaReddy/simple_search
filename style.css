@@ -1,4 +1,3 @@
-/* !@#$%^&*()_+ */
 
 *{
     margin: 0px;
@@ -6,12 +5,9 @@
 }
 
 .container{
-    /* width: 100vw; */
     width: 100%;
     height: 100vh;
     padding: 5%;
-    /* background-color: black;
-    color:white; */
     display: flex;
     background-image: linear-gradient(rgba(1, 24, 69, 0.3), rgba(0, 10, 30, 0.3)), url("nature-wallpaper-mountain.jpg");
     background-position: center;
