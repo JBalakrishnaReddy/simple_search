@@ -1,0 +1,1 @@
+This is a simple search window with an amazing background and customizability. The background will change everyday depending on the season. This project maybe extended as a browser plugin to enhance the visual experience.
